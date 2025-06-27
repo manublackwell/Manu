@@ -1,6 +1,6 @@
 ### Hello! I'm Manu 👋
 
-I'm a 26-year-old developer from Italy, where I blend my love for technology with a passion for personal development. I’m currently on a journey to become a life coach, aiming to empower teens to navigate their unique challenges. 🌱 Coding is my craft—Laravel, PHP, Python, and SQL are the tools I wield to build robust digital solutions. I’m also a fan of containerization with Docker and maintain code quality through meticulous testing with Postman, PHPUnit, and Pest.
+I'm a 28-year-old developer from Italy, where I blend my love for technology with a passion for personal development. I’m currently on a journey to become a life coach, aiming to empower teens to navigate their unique challenges. 🌱 Coding is my craft—Laravel, PHP, Python, and SQL are the tools I wield to build robust digital solutions. I’m also a fan of containerization with Docker and maintain code quality through meticulous testing with Postman, PHPUnit, and Pest.
 
 #### Explore my world:
 
